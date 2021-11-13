@@ -8,3 +8,13 @@ welcome
 
 Welcome guys.
 This project has bootstrapped for the new enhancements
+
+Hello guys
+after todays meeting we have decided several things:
+
+1) testing
+2) QA
+3) image scanning
+4) Push to dockerHub
+5) Deply using cabot and Flux tool
+6) Enjoy
